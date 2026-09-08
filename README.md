@@ -1,16 +1,13 @@
-## Hi there 👋
-
 <!--
-**NlKI-SHIINA/NlKI-SHIINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Rinne was here ^_^
 -->
+
+
+<p align="center"> <img src="https://file.garden/ap32_T3AcgdQ5WBX/niki/Niki%20FS1" height="320"> </p>
+
+‎ ‎ 
+<p align="center"> <img src="https://file.garden/ap32_T3AcgdQ5WBX/niki/div2" height="20"> </p>
+  
+<p align="center"> <img src="https://file.garden/ap32_T3AcgdQ5WBX/niki/meow" height="25"> </p>
+
+<p align="center"> <img src="https://file.garden/ap32_T3AcgdQ5WBX/niki/div1" height="16"> </p>
